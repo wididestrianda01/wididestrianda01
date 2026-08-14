@@ -1,5 +1,6 @@
-```text
-                                ------
+<table><tr>
+<td>
+<pre>                                ------
                             -:::::::::::::-
                          -::::::::::::::::::-
                        ::::::::::::::::::::::::
@@ -22,27 +23,25 @@
                          --%%*************%#:-
                         ::-@@%#**####***#%%#:::-
                    -:::::::#@@@@#*****#%@%%+::::::::--
-              --:::::::::::-@@@%* +**=#@%%*::::::::::::::-
-```
-
-<h1 align="center">Widi Destrianda</h1>
-
-<p align="center">
-  <strong>Quantitative Finance</strong> · Risk Analytics · Financial Data Science
-</p>
-
-<p align="center">
+              --:::::::::::-@@@%* +**=#@%%*::::::::::::::-</pre>
+</td>
+<td valign="middle">
+<h1>Widi Destrianda</h1>
+<p><strong>Quantitative Finance</strong> &middot; Risk Analytics &middot; Financial Data Science</p>
+<p>
   <img src="https://img.shields.io/badge/MSc%20Financial%20Mathematics-KTH%20%E2%80%94%20May%202027-blue" alt="MSc Financial Mathematics — KTH" />
   <img src="https://img.shields.io/badge/Location-Stockholm%2C%20Sweden-lightgrey" alt="Location: Stockholm, Sweden" />
 </p>
+</td>
+</tr></table>
 
 ---
 
 ## About
 
-Final-year **MSc in Applied and Computational Mathematics** (specialisation in Financial Mathematics) at KTH Royal Institute of Technology, Stockholm, graduating **May 2027**. I build and backtest quantitative models in Python and R — market risk, credit risk, and energy markets — and publish them as clean, reproducible projects.
+Final-year **MSc in Applied and Computational Mathematics** (specialisation in Financial Mathematics) at KTH, Stockholm, graduating **May 2027**. I build and backtest quantitative models in Python and R for market risk, credit risk, and energy markets, and I publish the code on GitHub.
 
-After seven years in engineering and cost estimation, I am shifting into quantitative finance. That experience gave me transferable skills — Monte Carlo simulation, regression modelling, forecasting, and data-driven decision-making — which now underpin my quantitative work.
+I came to finance after seven years in engineering and cost estimation. That work wasn't directly in finance, but the skills transfer: Monte Carlo simulation, regression modelling, forecasting, and making decisions from data. Those are the skills I still reach for in my quantitative work.
 
 ## What I'm targeting
 
@@ -107,13 +106,13 @@ Early data-science work: [Exploring-Airbnb-Market-Trends](https://github.com/wid
 
 ## Experience
 
-**Project Engineer** — PT Badak NGL (2021–2025)
+**Project Engineer** (2021–2025)
 Coordinated a USD 5.59M ERP upgrade with zero downtime; applied Six Sigma DMAIC to raise radio-system reliability from 72.15% to 99.46%.
 
-**Estimator** — PT Badak NGL (2018–2021)
+**Estimator** (2018–2021)
 Built a VBA Monte Carlo cost model that replaced commercial software; produced bid benchmarks used across the portfolio.
 
-**Management Trainee** — PT Badak NGL (2017–2018)
+**Management Trainee** (2017–2018)
 Built regression-based battery-lifetime models adopted as the facility's standard replacement-planning tool.
 
 ## Education
