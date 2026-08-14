@@ -17,9 +17,6 @@
 </p>
 
 ```text
-$ whoami
-Widi Destrianda
-
 $ neofetch
 Study     MSc Financial Mathematics @ KTH (May 2027)
 Target    Risk Analytics · Portfolio Management
