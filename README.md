@@ -16,6 +16,19 @@
   <img src="https://img.shields.io/badge/SQL-4479A1" alt="SQL" />
 </p>
 
+```text
+$ whoami
+Widi Destrianda
+
+$ neofetch
+Study     MSc Financial Mathematics @ KTH (May 2027)
+Target    Risk Analytics · Portfolio Management
+          Financial Data Science · Quantitative Analysis
+Location  Stockholm, Sweden
+Stack     Python · R · MATLAB · SQL
+Domain    GARCH · VaR/ES · IRB · GLM · Monte Carlo
+```
+
 ---
 
 ## About
