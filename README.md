@@ -1,39 +1,20 @@
-<table><tr>
-<td>
-<pre>                                ------
-                            -:::::::::::::-
-                         -::::::::::::::::::-
-                       ::::::::::::::::::::::::
-                     -::::::::::::::::::::::::::-
-                     :::::::::-=+*********+::::::
-                    -::::::=+*#######******+:::::
-                    :::::-*#######**#*******=::::
-                     ::::+**++++**###*+++==++-::-
-                     -:: *++++++=+***+=+++= ++:-=
-                    +*+:+**+++ *+**#+++* ===++-+*=
-                    +##-=**********#*+*******+-+*
-                     +*+ **#####***#*+***##**= +=
-                      +* +**####*+ ++ +*##**+= +
-                       = +**###*****++++****+=
-                          *****=++***+= =+*++
-                           *********+++*+++=
-                           =+*+*******++=
-                           =+++++==       =
-                           *#***+++++= =+***
-                         --%%*************%#:-
-                        ::-@@%#**####***#%%#:::-
-                   -:::::::#@@@@#*****#%@%%+::::::::--
-              --:::::::::::-@@@%* +**=#@%%*::::::::::::::-</pre>
-</td>
-<td valign="middle">
-<h1>Widi Destrianda</h1>
-<p><strong>Quantitative Finance</strong> &middot; Risk Analytics &middot; Financial Data Science</p>
-<p>
+<h1 align="center">Widi Destrianda</h1>
+
+<p align="center">
+  <strong>Quantitative Finance</strong> · Risk Analytics · Financial Data Science
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/MSc%20Financial%20Mathematics-KTH%20%E2%80%94%20May%202027-blue" alt="MSc Financial Mathematics — KTH" />
   <img src="https://img.shields.io/badge/Location-Stockholm%2C%20Sweden-lightgrey" alt="Location: Stockholm, Sweden" />
 </p>
-</td>
-</tr></table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3" alt="R" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/SQL-4479A1" alt="SQL" />
+</p>
 
 ---
 
