@@ -55,35 +55,35 @@ Open to graduate positions, internships, and master thesis projects from 2027.
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [cross-commodity-energy-trading](https://github.com/wididestrianda01/cross-commodity-energy-trading) | Spread economics, DCC-GARCH correlation, and t-copula VaR across Brent, TTF gas, EUA carbon, and European power. The correlation and tail-risk work applies directly to portfolio risk and cross-commodity spread trading. | Python |
-| [Austrian-Daily-Electricity-Load-Forecast](https://github.com/wididestrianda01/Austrian-Daily-Electricity-Load-Forecast) | ARMA modelling with a 31-day out-of-sample forecast of Austrian electricity load. The full time-series workflow: specification, diagnostics, and forecast evaluation. | Python |
-| [freq-anomaly-detection](https://github.com/wididestrianda01/freq-anomaly-detection) | Rolling z-score and CUSUM detection of anomalies in Nordic grid frequency, checked against real ENTSO-E outage records. A monitoring approach that carries over to risk surveillance and fault detection. | Python |
+| [cross-commodity-energy-trading](https://github.com/wididestrianda01/cross-commodity-energy-trading) | Spread economics, DCC-GARCH correlation, and t-copula VaR across Brent, TTF gas, EUA carbon, and European power, to measure portfolio tail risk and cross-commodity spreads. | Python |
+| [Austrian-Daily-Electricity-Load-Forecast](https://github.com/wididestrianda01/Austrian-Daily-Electricity-Load-Forecast) | ARMA modelling and a 31-day out-of-sample forecast of Austrian electricity load, with model diagnostics and forecast evaluation. | Python |
+| [freq-anomaly-detection](https://github.com/wididestrianda01/freq-anomaly-detection) | Rolling z-score and CUSUM anomaly detection on Nordic grid frequency, validated against ENTSO-E outage records. | Python |
 
 ### Market & Credit Risk
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [var-es-risk-engine](https://github.com/wididestrianda01/var-es-risk-engine) | FRTB-aligned VaR and Expected Shortfall engine. GARCH volatility, Kupiec and Christoffersen backtesting, and a Streamlit dashboard for the daily work of a market-risk analyst. | Python |
-| [credit-risk-pipeline](https://github.com/wididestrianda01/credit-risk-pipeline) | Basel III IRB credit scoring in a full pipeline: CatBoost, XGBoost, and LightGBM with 0.58 out-of-time Gini, SHAP explanations for adverse action, and FastAPI plus Streamlit serving. Mirrors how a bank builds PD models end to end. | Python |
-| [lgd-ead-irb-modelling](https://github.com/wididestrianda01/lgd-ead-irb-modelling) | IRB LGD and EAD models for Fannie Mae mortgages, aligned with CRR/EBA requirements, with a live Streamlit validation dashboard. Maps to credit risk capital modelling and regulatory reporting. | Python |
+| [var-es-risk-engine](https://github.com/wididestrianda01/var-es-risk-engine) | FRTB-aligned VaR and Expected Shortfall engine: GARCH volatility, Kupiec and Christoffersen backtesting, and a Streamlit dashboard for risk reporting. | Python |
+| [credit-risk-pipeline](https://github.com/wididestrianda01/credit-risk-pipeline) | Basel III IRB credit scoring pipeline: CatBoost, XGBoost, and LightGBM PD models with 0.58 out-of-time Gini, SHAP explanations for adverse action, served through FastAPI and Streamlit. | Python |
+| [lgd-ead-irb-modelling](https://github.com/wididestrianda01/lgd-ead-irb-modelling) | IRB LGD and EAD capital models for Fannie Mae mortgages, aligned with CRR/EBA requirements, with a live Streamlit validation dashboard. | Python |
 
 ### Statistical & Machine Learning Modelling
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [project-1-high-dimensional-regression](https://github.com/wididestrianda01/project-1-high-dimensional-regression) | PCR, PLS, Ridge, and Lasso on a 4,088-predictor genomics dataset, with multi-split inference for honest uncertainty. High-dimensional regression transfers to financial data with many features and few observations. | R |
-| [google-stock-volatility-forecasting](https://github.com/wididestrianda01/google-stock-volatility-forecasting) | ARMA mean dynamics plus GARCH volatility clustering on Google returns. The same volatility modelling a quant or risk team uses to price risk and build forecasts. | Python |
-| [project-2-glm-insurance-pricing](https://github.com/wididestrianda01/project-2-glm-insurance-pricing) | Multiplicative Poisson and Gamma GLMs for pure-premium pricing of travel insurance. Generalised linear models are the standard tool in insurance and credit pricing. | Python |
-| [spare-parts-optimization](https://github.com/wididestrianda01/spare-parts-optimization) | Minimises expected backorders under a budget using marginal allocation and dynamic programming. A constrained optimisation problem that generalises to portfolio allocation and inventory. | MATLAB |
-| [Instacart](https://github.com/wididestrianda01/Instacart) | Customer segmentation and market-basket analysis on Instacart orders. Clustering and association rules on real purchase data, the groundwork for any data-science role. | Python |
-| [Customer-Analytics-Preparing-Data-for-Modelling](https://github.com/wididestrianda01/Customer-Analytics-Preparing-Data-for-Modelling) | Cleaning, feature engineering, and validation on messy customer data. The preparation step that decides whether a model works. | Python |
+| [project-1-high-dimensional-regression](https://github.com/wididestrianda01/project-1-high-dimensional-regression) | PCR, PLS, Ridge, and Lasso with multi-split inference on a 4,088-predictor genomics dataset, comparing shrinkage methods on prediction error. | R |
+| [google-stock-volatility-forecasting](https://github.com/wididestrianda01/google-stock-volatility-forecasting) | ARMA mean dynamics plus GARCH volatility clustering on Google stock returns, with volatility forecasts and residual diagnostics. | Python |
+| [project-2-glm-insurance-pricing](https://github.com/wididestrianda01/project-2-glm-insurance-pricing) | Multiplicative Poisson and Gamma GLMs for pure-premium insurance pricing, with model selection and rate relativities. | Python |
+| [spare-parts-optimization](https://github.com/wididestrianda01/spare-parts-optimization) | Minimises expected backorders under a budget constraint using marginal allocation and dynamic programming. | MATLAB |
+| [Instacart](https://github.com/wididestrianda01/Instacart) | Customer segmentation and market-basket analysis on Instacart orders, with clustering and association rules. | Python |
+| [Customer-Analytics-Preparing-Data-for-Modelling](https://github.com/wididestrianda01/Customer-Analytics-Preparing-Data-for-Modelling) | Cleaning, feature engineering, and validation of messy customer data for modelling. | Python |
 
 ### Derivatives & Mathematical Finance
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [Option_Pricing](https://github.com/wididestrianda01/Option_Pricing) | Black-Scholes pricing and Greeks from first principles: analytical and finite-difference Greeks, implied-volatility inversion, a volatility surface, CRR binomial cross-check, American early-exercise premium, and delta-hedging P&L, calibrated to OMXS30. The pricing and hedging toolkit a quant analyst uses. | Python |
-| [Continuous-Time-Markov-Chains](https://github.com/wididestrianda01/Continuous-Time-Markov-Chains) | Continuous-time Markov chains model ferry reliability under competing maintenance strategies, validated by two independent simulation approaches. Stochastic-process modelling on a real availability problem. | MATLAB |
+| [Option_Pricing](https://github.com/wididestrianda01/Option_Pricing) | Black-Scholes pricing and Greeks from first principles: analytical and finite-difference Greeks, implied-volatility inversion, a volatility surface, CRR binomial cross-check, American early-exercise premium, and delta-hedging P&L, calibrated to OMXS30. | Python |
+| [Continuous-Time-Markov-Chains](https://github.com/wididestrianda01/Continuous-Time-Markov-Chains) | Continuous-time Markov chain model of ferry reliability under competing maintenance strategies, validated by two independent simulation approaches. | MATLAB |
 
 ### Foundations
 
