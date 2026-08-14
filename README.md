@@ -1,6 +1,29 @@
-<p align="center">
-  <img src="https://github.com/wididestrianda01.png" width="150" height="150" alt="Widi Destrianda" />
-</p>
+```text
+                                ------
+                            -:::::::::::::-
+                         -::::::::::::::::::-
+                       ::::::::::::::::::::::::
+                     -::::::::::::::::::::::::::-
+                     :::::::::-=+*********+::::::
+                    -::::::=+*#######******+:::::
+                    :::::-*#######**#*******=::::
+                     ::::+**++++**###*+++==++-::-
+                     -:: *++++++=+***+=+++= ++:-=
+                    +*+:+**+++ *+**#+++* ===++-+*=
+                    +##-=**********#*+*******+-+*
+                     +*+ **#####***#*+***##**= +=
+                      +* +**####*+ ++ +*##**+= +
+                       = +**###*****++++****+=
+                          *****=++***+= =+*++
+                           *********+++*+++=
+                           =+*+*******++=
+                           =+++++==       =
+                           *#***+++++= =+***
+                         --%%*************%#:-
+                        ::-@@%#**####***#%%#:::-
+                   -:::::::#@@@@#*****#%@%%+::::::::--
+              --:::::::::::-@@@%* +**=#@%%*::::::::::::::-
+```
 
 <h1 align="center">Widi Destrianda</h1>
 
@@ -71,12 +94,12 @@ Open to graduate positions, internships, and master thesis projects from 2027.
 | [Instacart](https://github.com/wididestrianda01/Instacart) | Customer segmentation and market basket analysis. | Python |
 | [Customer-Analytics-Preparing-Data-for-Modelling](https://github.com/wididestrianda01/Customer-Analytics-Preparing-Data-for-Modelling) | Preparing messy customer data for modelling. | Python |
 
-### Mathematical Finance & Stochastic Processes
+### Derivatives & Mathematical Finance
 
 | Project | Description | Stack |
 | --- | --- | --- |
+| [Option_Pricing](https://github.com/wididestrianda01/Option_Pricing) | Black-Scholes options pricing and Greeks engine from first principles — analytical and finite-difference Greeks, implied-volatility inversion, volatility surface, CRR binomial cross-check, American early-exercise premium, delta-hedging P&L — calibrated to OMXS30. | Python |
 | [Continuous-Time-Markov-Chains](https://github.com/wididestrianda01/Continuous-Time-Markov-Chains) | CTMC ferry-reliability model comparing maintenance strategies, validated by two simulation approaches. | MATLAB |
-| [KTH_TSA_Group11](https://github.com/wididestrianda01/KTH_TSA_Group11) | KTH Time Series Analysis course project (Group 11). | Python |
 
 ### Foundations
 

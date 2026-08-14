@@ -9,7 +9,7 @@ The `README.md` in the repo named after the GitHub username; GitHub renders it o
 _Avoid_: portfolio site, CV, resume page
 
 **Topic area**:
-A category grouping portfolio projects by subject domain (Energy & Commodity Markets, Market & Credit Risk, Statistical & ML Modelling, Mathematical Finance & Stochastic Processes, Foundations).
+A category grouping portfolio projects by subject domain (Energy & Commodity Markets, Market & Credit Risk, Statistical & ML Modelling, Derivatives & Mathematical Finance, Foundations).
 _Avoid_: tag, label
 
 **Portfolio project**:
