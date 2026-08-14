@@ -17,13 +17,7 @@
 </p>
 
 ```text
-$ neofetch
-Study     MSc Financial Mathematics @ KTH (May 2027)
-Target    Risk Analytics · Portfolio Management
-          Financial Data Science · Quantitative Analysis
-Location  Stockholm, Sweden
-Stack     Python · R · MATLAB · SQL
-Domain    GARCH · VaR/ES · IRB · GLM · Monte Carlo
+$ whoami → engineer turned quant — MSc Financial Mathematics @ KTH, May 2027
 ```
 
 ---
