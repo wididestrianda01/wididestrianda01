@@ -55,6 +55,7 @@ Open to graduate positions, internships, and master thesis projects from 2027.
 
 | Project | Description | Stack |
 | --- | --- | --- |
+| [nordic-electricity-forecasting](https://github.com/wididestrianda01/nordic-electricity-forecasting) | Day-ahead Nord Pool price forecasting with a ten-model comparison, ranked on an accuracy-versus-compute Pareto frontier. Compares gradient-boosted trees, foundation, deep, and classical models with leakage-free features, expanding-window backtests, CRPS and pinball scoring, and Diebold–Mariano tests. | Python |
 | [cross-commodity-energy-trading](https://github.com/wididestrianda01/cross-commodity-energy-trading) | Spread economics, DCC-GARCH correlation, and t-copula VaR across Brent, TTF gas, EUA carbon, and European power, to measure portfolio tail risk and cross-commodity spreads. | Python |
 | [Austrian-Daily-Electricity-Load-Forecast](https://github.com/wididestrianda01/Austrian-Daily-Electricity-Load-Forecast) | ARMA modelling and a 31-day out-of-sample forecast of Austrian electricity load, with model diagnostics and forecast evaluation. | Python |
 | [freq-anomaly-detection](https://github.com/wididestrianda01/freq-anomaly-detection) | Rolling z-score and CUSUM anomaly detection on Nordic grid frequency, validated against ENTSO-E outage records. | Python |
