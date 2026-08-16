@@ -83,6 +83,7 @@ Open to graduate positions, internships, and master thesis projects from 2027.
 
 | Project | Description | Stack |
 | --- | --- | --- |
+| [fixed-income-curve-engine](https://github.com/wididestrianda01/fixed-income-curve-engine) | Yield-curve construction and fixed-income pricing built from scratch in Python, cross-checked against QuantLib. Term-structure models (Hull-White, G2++), SABR volatility smiles, Svensson calibration, and interest-rate risk: DV01, duration and convexity, key-rate duration, and delta VaR/ES. | Python |
 | [Option_Pricing](https://github.com/wididestrianda01/Option_Pricing) | Black-Scholes pricing and Greeks from first principles: analytical and finite-difference Greeks, implied-volatility inversion, a volatility surface, CRR binomial cross-check, American early-exercise premium, and delta-hedging P&L, calibrated to OMXS30. | Python |
 | [Continuous-Time-Markov-Chains](https://github.com/wididestrianda01/Continuous-Time-Markov-Chains) | Continuous-time Markov chain model of ferry reliability under competing maintenance strategies, validated by two independent simulation approaches. | MATLAB |
 
