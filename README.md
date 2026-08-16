@@ -64,6 +64,7 @@ Open to graduate positions, internships, and master thesis projects from 2027.
 
 | Project | Description | Stack |
 | --- | --- | --- |
+| [nordic-power-market-risk](https://github.com/wididestrianda01/nordic-power-market-risk) | Decision and risk system for a battery in the Swedish SE3 zone: MILP dispatch of energy and reserve capacity (FCR/aFRR/mFRR) across day-ahead, imbalance, and reserve markets, gated on CVaR and drawdown tail-risk limits and settled against observed prices. Probabilistic quantile forecasting (LEAR) drives the optimizer, with a walk-forward P&L netting EUR 483,956 versus EUR 86,516 for a heuristic benchmark. | Python |
 | [var-es-risk-engine](https://github.com/wididestrianda01/var-es-risk-engine) | FRTB-aligned VaR and Expected Shortfall engine: GARCH volatility, Kupiec and Christoffersen backtesting, and a Streamlit dashboard for risk reporting. | Python |
 | [credit-risk-pipeline](https://github.com/wididestrianda01/credit-risk-pipeline) | Basel III IRB credit scoring pipeline: CatBoost, XGBoost, and LightGBM PD models with 0.58 out-of-time Gini, SHAP explanations for adverse action, served through FastAPI and Streamlit. | Python |
 | [lgd-ead-irb-modelling](https://github.com/wididestrianda01/lgd-ead-irb-modelling) | IRB LGD and EAD capital models for Fannie Mae mortgages, aligned with CRR/EBA requirements, with a live Streamlit validation dashboard. | Python |
