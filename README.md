@@ -68,6 +68,7 @@ Open to graduate positions, internships, and master thesis projects from 2027.
 | [var-es-risk-engine](https://github.com/wididestrianda01/var-es-risk-engine) | FRTB-aligned VaR and Expected Shortfall engine: GARCH volatility, Kupiec and Christoffersen backtesting, and a Streamlit dashboard for risk reporting. | Python |
 | [credit-risk-pipeline](https://github.com/wididestrianda01/credit-risk-pipeline) | Basel III IRB credit scoring pipeline: CatBoost, XGBoost, and LightGBM PD models with 0.58 out-of-time Gini, SHAP explanations for adverse action, served through FastAPI and Streamlit. | Python |
 | [lgd-ead-irb-modelling](https://github.com/wididestrianda01/lgd-ead-irb-modelling) | IRB LGD and EAD capital models for Fannie Mae mortgages, aligned with CRR/EBA requirements, with a live Streamlit validation dashboard. | Python |
+| [credit-risk-model-validation-workbench](https://github.com/wididestrianda01/credit-risk-model-validation-workbench) | Regulatory credit-risk & model-validation workbench: IFRS 9 expected-credit-loss pipeline and independent validation over a frozen Freddie Mac cohort — PD/LGD/EAD, staging, six-effect reconciliation, governance, monitoring, and a causal/fairness analysis. 35 modules, 190 tests, `mypy --strict` clean. | Python |
 
 ### Statistical & Machine Learning Modelling
 
