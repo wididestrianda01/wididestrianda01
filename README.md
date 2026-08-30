@@ -51,43 +51,44 @@ Open to graduate positions, internships, and master thesis projects from 2027.
 
 ## Projects by topic area
 
-### Energy & Commodity Markets
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [nordic-electricity-forecasting](https://github.com/wididestrianda01/nordic-electricity-forecasting) | Day-ahead Nord Pool price forecasting with a ten-model comparison, ranked on an accuracy-versus-compute Pareto frontier. Compares gradient-boosted trees, foundation, deep, and classical models with leakage-free features, expanding-window backtests, CRPS and pinball scoring, and Diebold–Mariano tests. | Python |
-| [cross-commodity-energy-trading](https://github.com/wididestrianda01/cross-commodity-energy-trading) | Spread economics, DCC-GARCH correlation, and t-copula VaR across Brent, TTF gas, EUA carbon, and European power, to measure portfolio tail risk and cross-commodity spreads. | Python |
-| [Austrian-Daily-Electricity-Load-Forecast](https://github.com/wididestrianda01/Austrian-Daily-Electricity-Load-Forecast) | ARMA modelling and a 31-day out-of-sample forecast of Austrian electricity load, with model diagnostics and forecast evaluation. | Python |
-| [freq-anomaly-detection](https://github.com/wididestrianda01/freq-anomaly-detection) | Rolling z-score and CUSUM anomaly detection on Nordic grid frequency, validated against ENTSO-E outage records. | Python |
-
 ### Market & Credit Risk
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [nordic-power-market-risk](https://github.com/wididestrianda01/nordic-power-market-risk) | Decision and risk system for a battery in the Swedish SE3 zone: MILP dispatch of energy and reserve capacity (FCR/aFRR/mFRR) across day-ahead, imbalance, and reserve markets, gated on CVaR and drawdown tail-risk limits and settled against observed prices. Probabilistic quantile forecasting (LEAR) drives the optimizer, with a walk-forward P&L netting EUR 483,956 versus EUR 86,516 for a heuristic benchmark. | Python, Docker |
 | [credit-risk-model-validation-workbench](https://github.com/wididestrianda01/credit-risk-model-validation-workbench) | Regulatory credit-risk & model-validation workbench: IFRS 9 expected-credit-loss pipeline and independent validation over a frozen Freddie Mac cohort — PD/LGD/EAD, staging, six-effect reconciliation, governance, monitoring, and a causal/fairness analysis. 35 modules, 190 tests, `mypy --strict` clean. | Python |
-| [var-es-risk-engine](https://github.com/wididestrianda01/var-es-risk-engine) | FRTB-aligned VaR and Expected Shortfall engine: GARCH volatility, Kupiec and Christoffersen backtesting, and a Streamlit dashboard for risk reporting. | Python |
+| [nordic-power-market-risk](https://github.com/wididestrianda01/nordic-power-market-risk) | Decision and risk system for a battery in the Swedish SE3 zone: MILP dispatch of energy and reserve capacity (FCR/aFRR/mFRR) across day-ahead, imbalance, and reserve markets, gated on CVaR and drawdown tail-risk limits and settled against observed prices. Probabilistic quantile forecasting (LEAR) drives the optimizer, with a walk-forward P&L netting EUR 483,956 versus EUR 86,516 for a heuristic benchmark. | Python, Docker |
 | [credit-risk-pipeline](https://github.com/wididestrianda01/credit-risk-pipeline) | Basel III IRB credit scoring pipeline: CatBoost, XGBoost, and LightGBM PD models with 0.58 out-of-time Gini, SHAP explanations for adverse action, served through FastAPI and Streamlit. | Python |
 | [lgd-ead-irb-modelling](https://github.com/wididestrianda01/lgd-ead-irb-modelling) | IRB LGD and EAD capital models for Fannie Mae mortgages, aligned with CRR/EBA requirements, with a live Streamlit validation dashboard. | Python |
-
-### Statistical & Machine Learning Modelling
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [project-1-high-dimensional-regression](https://github.com/wididestrianda01/project-1-high-dimensional-regression) | PCR, PLS, Ridge, and Lasso with multi-split inference on a 4,088-predictor genomics dataset, comparing shrinkage methods on prediction error. | R |
-| [google-stock-volatility-forecasting](https://github.com/wididestrianda01/google-stock-volatility-forecasting) | ARMA mean dynamics plus GARCH volatility clustering on Google stock returns, with volatility forecasts and residual diagnostics. | Python |
-| [project-2-glm-insurance-pricing](https://github.com/wididestrianda01/project-2-glm-insurance-pricing) | Multiplicative Poisson and Gamma GLMs for pure-premium insurance pricing, with model selection and rate relativities. | Python |
-| [spare-parts-optimization](https://github.com/wididestrianda01/spare-parts-optimization) | Minimises expected backorders under a budget constraint using marginal allocation and dynamic programming. | MATLAB |
-| [Instacart](https://github.com/wididestrianda01/Instacart) | Customer segmentation and market-basket analysis on Instacart orders, with clustering and association rules. | Python |
-| [Customer-Analytics-Preparing-Data-for-Modelling](https://github.com/wididestrianda01/Customer-Analytics-Preparing-Data-for-Modelling) | Cleaning, feature engineering, and validation of messy customer data for modelling. | Python |
+| [var-es-risk-engine](https://github.com/wididestrianda01/var-es-risk-engine) | FRTB-aligned VaR and Expected Shortfall engine: GARCH volatility, Kupiec and Christoffersen backtesting, and a Streamlit dashboard for risk reporting. | Python |
 
 ### Derivatives & Mathematical Finance
 
 | Project | Description | Stack |
 | --- | --- | --- |
+| [pricing-model-validation](https://github.com/wididestrianda01/pricing-model-validation) | Numerical derivatives-pricing and model-validation core: Monte Carlo, finite-difference PDEs, Greeks, and SABR/Heston calibration, each challenged against closed forms and QuantLib, with an SR 26-2-style validation report. | Python |
 | [fixed-income-curve-engine](https://github.com/wididestrianda01/fixed-income-curve-engine) | Yield-curve construction and fixed-income pricing built from scratch in Python, cross-checked against QuantLib. Term-structure models (Hull-White, G2++), SABR volatility smiles, Svensson calibration, and interest-rate risk: DV01, duration and convexity, key-rate duration, and delta VaR/ES. | Python |
 | [Option_Pricing](https://github.com/wididestrianda01/Option_Pricing) | Black-Scholes pricing and Greeks from first principles: analytical and finite-difference Greeks, implied-volatility inversion, a volatility surface, CRR binomial cross-check, American early-exercise premium, and delta-hedging P&L, calibrated to OMXS30. | Python |
 | [Continuous-Time-Markov-Chains](https://github.com/wididestrianda01/Continuous-Time-Markov-Chains) | Continuous-time Markov chain model of ferry reliability under competing maintenance strategies, validated by two independent simulation approaches. | MATLAB |
+
+### Energy & Commodity Markets
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [cross-commodity-energy-trading](https://github.com/wididestrianda01/cross-commodity-energy-trading) | Spread economics, DCC-GARCH correlation, and t-copula VaR across Brent, TTF gas, EUA carbon, and European power, to measure portfolio tail risk and cross-commodity spreads. | Python |
+| [nordic-electricity-forecasting](https://github.com/wididestrianda01/nordic-electricity-forecasting) | Day-ahead Nord Pool price forecasting with a ten-model comparison, ranked on an accuracy-versus-compute Pareto frontier. Compares gradient-boosted trees, foundation, deep, and classical models with leakage-free features, expanding-window backtests, CRPS and pinball scoring, and Diebold–Mariano tests. | Python |
+| [Austrian-Daily-Electricity-Load-Forecast](https://github.com/wididestrianda01/Austrian-Daily-Electricity-Load-Forecast) | ARMA modelling and a 31-day out-of-sample forecast of Austrian electricity load, with model diagnostics and forecast evaluation. | Python |
+| [freq-anomaly-detection](https://github.com/wididestrianda01/freq-anomaly-detection) | Rolling z-score and CUSUM anomaly detection on Nordic grid frequency, validated against ENTSO-E outage records. | Python |
+
+### Statistical & Machine Learning Modelling
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [google-stock-volatility-forecasting](https://github.com/wididestrianda01/google-stock-volatility-forecasting) | ARMA mean dynamics plus GARCH volatility clustering on Google stock returns, with volatility forecasts and residual diagnostics. | Python |
+| [project-2-glm-insurance-pricing](https://github.com/wididestrianda01/project-2-glm-insurance-pricing) | Multiplicative Poisson and Gamma GLMs for pure-premium insurance pricing, with model selection and rate relativities. | Python |
+| [project-1-high-dimensional-regression](https://github.com/wididestrianda01/project-1-high-dimensional-regression) | PCR, PLS, Ridge, and Lasso with multi-split inference on a 4,088-predictor genomics dataset, comparing shrinkage methods on prediction error. | R |
+| [spare-parts-optimization](https://github.com/wididestrianda01/spare-parts-optimization) | Minimises expected backorders under a budget constraint using marginal allocation and dynamic programming. | MATLAB |
+| [Instacart](https://github.com/wididestrianda01/Instacart) | Customer segmentation and market-basket analysis on Instacart orders, with clustering and association rules. | Python |
+| [Customer-Analytics-Preparing-Data-for-Modelling](https://github.com/wididestrianda01/Customer-Analytics-Preparing-Data-for-Modelling) | Cleaning, feature engineering, and validation of messy customer data for modelling. | Python |
 
 ### Foundations
 
