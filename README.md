@@ -97,8 +97,6 @@ Open to graduate positions, internships, and master thesis projects from 2027.
 
 Early data-science work: [Exploring-Airbnb-Market-Trends](https://github.com/wididestrianda01/Exploring-Airbnb-Market-Trends) · [Analyzing-Crime-in-Los-Angeles](https://github.com/wididestrianda01/Analyzing-Crime-in-Los-Angeles) · [Investigating-Netflix-Movies](https://github.com/wididestrianda01/Investigating-Netflix-Movies) · [Visualizing-the-History-of-Nobel-Prize-Winners](https://github.com/wididestrianda01/Visualizing-the-History-of-Nobel-Prize-Winners) · [Python-Data-Cleaning](https://github.com/wididestrianda01/Python-Data-Cleaning)
 
-Automation: [ai-job-search](https://github.com/wididestrianda01/ai-job-search) — AI-powered job application framework built on Claude Code: evaluate postings, tailor CV, cover letters, interview prep.
-
 ## Experience
 
 **Project Engineer** (2021–2025)
