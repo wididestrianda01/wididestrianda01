@@ -24,7 +24,7 @@ $ whoami → engineer turned quant — MSc Financial Mathematics @ KTH, May 2027
 
 ## About
 
-Final-year **MSc in Applied and Computational Mathematics** (specialisation in Financial Mathematics) at KTH, Stockholm, graduating **May 2027**. I build and backtest quantitative models in Python and R for market risk, credit risk, and energy markets, and I publish the code on GitHub.
+Final-year **MSc in Applied and Computational Mathematics** (specialisation in Financial Mathematics) at KTH, Stockholm, graduating **Summer 2027**. I build and backtest quantitative models in Python and R for market risk, credit risk, and energy markets, and I publish the code on GitHub.
 
 I came to finance after seven years in engineering and cost estimation. That work wasn't directly in finance, but the skills transfer: Monte Carlo simulation, regression modelling, forecasting, and making decisions from data. Those are the skills I still reach for in my quantitative work.
 
