@@ -17,7 +17,7 @@
 </p>
 
 ```text
-$ whoami → engineer turned quant — MSc Financial Mathematics @ KTH, May 2027
+$ whoami → engineer turned quant — MSc Financial Mathematics @ KTH, 2027
 ```
 
 ---
