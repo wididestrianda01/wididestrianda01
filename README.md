@@ -41,13 +41,13 @@ Open to graduate positions, internships, and master thesis projects from 2027.
 
 ## Skills
 
-**Programming** — Python (pandas, NumPy, scikit-learn, statsmodels, Streamlit) · R · SQL · MATLAB · VBA
+**Programming** — Python (pandas, NumPy, scikit-learn, statsmodels, XGBoost/CatBoost/LightGBM, SHAP, FastAPI, Streamlit, DuckDB, QuantLib, pytest) · R · SQL · MATLAB · VBA
 
 **Quantitative methods** — time series (ARIMA/SARIMA, GARCH/EGARCH, Prophet, LightGBM) · GLM · high-dimensional regression (Ridge, Lasso, PCR, PLS) · DCC-GARCH and copulas · Monte Carlo and discrete-event simulation
 
 **Financial & risk modelling** — Basel III IRB (PD/LGD/EAD) · VaR and Expected Shortfall · Kupiec and Christoffersen backtesting · credit scorecards · insurance pricing · stochastic calculus
 
-**Tools** — Tableau · Advanced Excel · Git/GitHub
+**Tools** — Docker · Tableau · Advanced Excel · Git/GitHub · Claude Code agent workflows
 
 ## Projects by topic area
 
@@ -79,6 +79,7 @@ Open to graduate positions, internships, and master thesis projects from 2027.
 | [nordic-electricity-forecasting](https://github.com/wididestrianda01/nordic-electricity-forecasting) | Day-ahead Nord Pool price forecasting with a ten-model comparison, ranked on an accuracy-versus-compute Pareto frontier. Compares gradient-boosted trees, foundation, deep, and classical models with leakage-free features, expanding-window backtests, CRPS and pinball scoring, and Diebold–Mariano tests. | Python |
 | [Austrian-Daily-Electricity-Load-Forecast](https://github.com/wididestrianda01/Austrian-Daily-Electricity-Load-Forecast) | ARMA modelling and a 31-day out-of-sample forecast of Austrian electricity load, with model diagnostics and forecast evaluation. | Python |
 | [freq-anomaly-detection](https://github.com/wididestrianda01/freq-anomaly-detection) | Rolling z-score and CUSUM anomaly detection on Nordic grid frequency, validated against ENTSO-E outage records. | Python |
+| [nordic-spot-price-forecasting](https://github.com/wididestrianda01/nordic-spot-price-forecasting) | Day-ahead SE3 spot price forecasting with SARIMA, Prophet, and LightGBM, evaluated out-of-sample on a common test year with spike-separated MAE/RMSE. | Python |
 
 ### Statistical & Machine Learning Modelling
 
@@ -90,10 +91,13 @@ Open to graduate positions, internships, and master thesis projects from 2027.
 | [spare-parts-optimization](https://github.com/wididestrianda01/spare-parts-optimization) | Minimises expected backorders under a budget constraint using marginal allocation and dynamic programming. | MATLAB |
 | [Instacart](https://github.com/wididestrianda01/Instacart) | Customer segmentation and market-basket analysis on Instacart orders, with clustering and association rules. | Python |
 | [Customer-Analytics-Preparing-Data-for-Modelling](https://github.com/wididestrianda01/Customer-Analytics-Preparing-Data-for-Modelling) | Cleaning, feature engineering, and validation of messy customer data for modelling. | Python |
+| [lime-equity-research](https://github.com/wididestrianda01/lime-equity-research) | Equity research note on Lime Technologies AB (LIME.ST): two-stage DCF, WACC build, Nordic SaaS comparables, and a HOLD recommendation. | Python |
 
 ### Foundations
 
 Early data-science work: [Exploring-Airbnb-Market-Trends](https://github.com/wididestrianda01/Exploring-Airbnb-Market-Trends) · [Analyzing-Crime-in-Los-Angeles](https://github.com/wididestrianda01/Analyzing-Crime-in-Los-Angeles) · [Investigating-Netflix-Movies](https://github.com/wididestrianda01/Investigating-Netflix-Movies) · [Visualizing-the-History-of-Nobel-Prize-Winners](https://github.com/wididestrianda01/Visualizing-the-History-of-Nobel-Prize-Winners) · [Python-Data-Cleaning](https://github.com/wididestrianda01/Python-Data-Cleaning)
+
+Automation: [ai-job-search](https://github.com/wididestrianda01/ai-job-search) — AI-powered job application framework built on Claude Code: evaluate postings, tailor CV, cover letters, interview prep.
 
 ## Experience
 
