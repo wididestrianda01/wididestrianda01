@@ -43,11 +43,11 @@ Open to graduate positions, internships, and master thesis projects from 2027.
 
 **Programming** — Python (pandas, NumPy, scikit-learn, statsmodels, XGBoost/CatBoost/LightGBM, SHAP, FastAPI, Streamlit, DuckDB, QuantLib, pytest) · R · SQL · MATLAB · VBA
 
-**Quantitative methods** — time series (ARIMA/SARIMA, GARCH/EGARCH, Prophet, LightGBM) · GLM · high-dimensional regression (Ridge, Lasso, PCR, PLS) · DCC-GARCH and copulas · commodity term structure (cost-of-carry, Schwartz–Smith) · Monte Carlo and discrete-event simulation
+**Quantitative methods** — time series (ARIMA/SARIMA, GARCH/EGARCH, Prophet, LightGBM) · GLM · high-dimensional regression (Ridge, Lasso, PCR, PLS) · optimisation (MILP, dynamic programming) · DCC-GARCH and copulas · commodity term structure (cost-of-carry, Schwartz–Smith) · Monte Carlo and discrete-event simulation
 
-**Financial & risk modelling** — Basel III IRB (PD/LGD/EAD) · VaR and Expected Shortfall · Kupiec and Christoffersen backtesting · credit scorecards · insurance pricing · hedging and structured products (zero-cost collar, Black-76) · xVA (CVA) · stochastic calculus
+**Financial & risk modelling** — Basel III IRB (PD/LGD/EAD) · IFRS 9 (ECL, hedge effectiveness) · VaR and Expected Shortfall · Kupiec and Christoffersen backtesting · credit scorecards · insurance pricing · hedging and structured products (zero-cost collar, Black-76) · xVA (EE/EPE/PFE, CVA) · stochastic calculus
 
-**Tools** — Docker · Tableau · Advanced Excel · Git/GitHub · Claude Code agent workflows
+**Tools** — Docker · Terraform · Tableau · Advanced Excel · Git/GitHub · Claude Code agent workflows
 
 ## Projects by topic area
 
