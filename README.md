@@ -80,7 +80,6 @@ Open to graduate positions, internships, and master thesis projects from 2027.
 | [nordic-electricity-forecasting](https://github.com/wididestrianda01/nordic-electricity-forecasting) | Day-ahead Nord Pool price forecasting with a ten-model comparison, ranked on an accuracy-versus-compute Pareto frontier. Compares gradient-boosted trees, foundation, deep, and classical models with leakage-free features, expanding-window backtests, CRPS and pinball scoring, and Diebold–Mariano tests. | Python |
 | [Austrian-Daily-Electricity-Load-Forecast](https://github.com/wididestrianda01/Austrian-Daily-Electricity-Load-Forecast) | ARMA modelling and a 31-day out-of-sample forecast of Austrian electricity load, with model diagnostics and forecast evaluation. | Python |
 | [freq-anomaly-detection](https://github.com/wididestrianda01/freq-anomaly-detection) | Rolling z-score and CUSUM anomaly detection on Nordic grid frequency, validated against ENTSO-E outage records. | Python |
-| [nordic-spot-price-forecasting](https://github.com/wididestrianda01/nordic-spot-price-forecasting) | Day-ahead SE3 spot price forecasting with SARIMA, Prophet, and LightGBM, evaluated out-of-sample on a common test year with spike-separated MAE/RMSE. | Python |
 
 ### Statistical & Machine Learning Modelling
 
