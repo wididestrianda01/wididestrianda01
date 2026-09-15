@@ -91,7 +91,6 @@ Open to graduate positions, internships, and master thesis projects from 2027.
 | [spare-parts-optimization](https://github.com/wididestrianda01/spare-parts-optimization) | Minimises expected backorders under a budget constraint using marginal allocation and dynamic programming. | MATLAB |
 | [Instacart](https://github.com/wididestrianda01/Instacart) | Customer segmentation and market-basket analysis on Instacart orders, with clustering and association rules. | Python |
 | [Customer-Analytics-Preparing-Data-for-Modelling](https://github.com/wididestrianda01/Customer-Analytics-Preparing-Data-for-Modelling) | Cleaning, feature engineering, and validation of messy customer data for modelling. | Python |
-| [lime-equity-research](https://github.com/wididestrianda01/lime-equity-research) | Equity research note on Lime Technologies AB (LIME.ST): two-stage DCF, WACC build, Nordic SaaS comparables, and a HOLD recommendation. | Python |
 
 ### Foundations
 
