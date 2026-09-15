@@ -86,8 +86,8 @@ Open to graduate positions, internships, and master thesis projects from 2027.
 | Project | Description | Stack |
 | --- | --- | --- |
 | [google-stock-volatility-forecasting](https://github.com/wididestrianda01/google-stock-volatility-forecasting) | ARMA mean dynamics plus GARCH volatility clustering on Google stock returns, with volatility forecasts and residual diagnostics. | Python |
-| [project-2-glm-insurance-pricing](https://github.com/wididestrianda01/project-2-glm-insurance-pricing) | Multiplicative Poisson and Gamma GLMs for pure-premium insurance pricing, with model selection and rate relativities. | Python |
-| [project-1-high-dimensional-regression](https://github.com/wididestrianda01/project-1-high-dimensional-regression) | PCR, PLS, Ridge, and Lasso with multi-split inference on a 4,088-predictor genomics dataset, comparing shrinkage methods on prediction error. | R |
+| [glm-insurance-pricing](https://github.com/wididestrianda01/glm-insurance-pricing) | Multiplicative Poisson and Gamma GLMs for pure-premium insurance pricing, with model selection and rate relativities. | Python |
+| [high-dimensional-regression](https://github.com/wididestrianda01/high-dimensional-regression) | PCR, PLS, Ridge, and Lasso with multi-split inference on a 4,088-predictor genomics dataset, comparing shrinkage methods on prediction error. | R |
 | [spare-parts-optimization](https://github.com/wididestrianda01/spare-parts-optimization) | Minimises expected backorders under a budget constraint using marginal allocation and dynamic programming. | MATLAB |
 | [Instacart](https://github.com/wididestrianda01/Instacart) | Customer segmentation and market-basket analysis on Instacart orders, with clustering and association rules. | Python |
 | [Customer-Analytics-Preparing-Data-for-Modelling](https://github.com/wididestrianda01/Customer-Analytics-Preparing-Data-for-Modelling) | Cleaning, feature engineering, and validation of messy customer data for modelling. | Python |
