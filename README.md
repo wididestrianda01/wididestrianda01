@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MSc%20Financial%20Mathematics-KTH%20%E2%80%94%20May%202027-blue" alt="MSc Financial Mathematics — KTH" />
+  <img src="https://img.shields.io/badge/MSc%20Financial%20Mathematics-KTH%20%E2%80%94%202027-blue" alt="MSc Financial Mathematics — KTH" />
   <img src="https://img.shields.io/badge/Location-Stockholm%2C%20Sweden-lightgrey" alt="Location: Stockholm, Sweden" />
 </p>
 
